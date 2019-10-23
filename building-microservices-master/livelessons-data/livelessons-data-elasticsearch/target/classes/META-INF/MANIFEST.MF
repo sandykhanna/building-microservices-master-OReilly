@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: livelessons-data-elasticsearch
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: SandeepKhanna
+Implementation-Vendor-Id: livelessons
+Build-Jdk: 1.8.0_77
+Implementation-URL: http://projects.spring.io/spring-boot/livelessons-
+ parent/livelessons-data/livelessons-data-elasticsearch/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
